@@ -9,3 +9,8 @@ fetch
 pull
 add
 
+hiye
+hii
+htmp
+
+cc
